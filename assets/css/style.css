@@ -112,17 +112,18 @@ p {
 
 /* INICIO *IMAGE__CARD* */
 .image__card_hover {
+    align-items: center;
     background-color: aqua;
-    position: absolute;
-    opacity: 0;
-    width: 100%;
-    height: 100%;
-    left: 0; 
-    top:0; 
+    border-radius: 5%;
+    cursor: pointer;
     display: flex;
     justify-content: center;
-    align-items: center;
-    border-radius: 5%;
+    height: 100%;
+    left: 0; 
+    opacity: 0;
+    top:0; 
+    position: absolute;
+    width: 100%;
 }
 
 .image__card_hover:hover{
@@ -132,4 +133,11 @@ p {
 .image__card_hover img{
     width: 30px;
 }
-/* INICIO FIM *IMAGE__CARD* */
+/* FIM *IMAGE__CARD* */
+
+.title__card:hover,.created-user:hover{
+    color: aqua;
+    cursor: pointer;
+}
+
+/*** FIM EFEITOS ***/
