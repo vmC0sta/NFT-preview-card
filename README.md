@@ -13,6 +13,8 @@ O projeto consiste em uma página web que exibe um cartão de visualização de 
 - 🕒 Uma contagem regressiva que indica o tempo restante para adquirir o NFT (3 dias restantes).
 - 👤 O criador do NFT, identificado por um avatar e nome do usuário (Jules Wyvern).
 
+  ![image](https://github.com/vmC0sta/NFT-preview-card/assets/116650361/7a4a2932-f115-4d4c-97a7-651a22eb5f94)
+
 ## Tecnologias Utilizadas 💻
 
 - HTML5
